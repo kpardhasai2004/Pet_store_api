@@ -1,7 +1,7 @@
 # Pet_store_api
 
 
-<h3>[View portfolio](https://petstoreapi.pythonanywhere.com/)</h3>
+<h3>[View working model](https://petstoreapi.pythonanywhere.com/)</h3>
 
 <h1> In this page you can see the home page </h1>
 <img src=" https://github.com/kpardhasai2004/Pet_store_api/blob/main/images/home.png " >
